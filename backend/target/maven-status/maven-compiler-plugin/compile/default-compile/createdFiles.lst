@@ -1,0 +1,7 @@
+br\com\tarefas\api\service\TarefaService.class
+br\com\tarefas\api\config\DataInitializer.class
+br\com\tarefas\api\repository\TarefaRepository.class
+br\com\tarefas\api\ApiApplication.class
+br\com\tarefas\api\config\WebConfig.class
+br\com\tarefas\api\controller\TarefaController.class
+br\com\tarefas\api\model\Tarefa.class
